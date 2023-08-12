@@ -86,6 +86,10 @@ The backend is powered by Node.js and Express.js, with Passport.js for authentic
 
 Contributions are always welcome! Please fork this repository and create a pull request with your proposed changes.
 
+##Deployment
+
+You cna find the deployed app here https://plan-10p96s3zm-tommybow.vercel.app/
+
 ---
 
 Thank you for choosing Plan Pro for your task management needs. We hope you find the application helpful and efficient in managing your tasks. If you encounter any issues or have suggestions for improvements, please feel free to reach out

@@ -88,7 +88,7 @@ Contributions are always welcome! Please fork this repository and create a pull 
 
 ##Deployment
 
-You cna find the deployed app here https://plan-10p96s3zm-tommybow.vercel.app/
+You can find the deployed app here: https://64d8ee21555a76259859c0d7--fantastic-biscuit-7c2942.netlify.app/
 
 ---
 
